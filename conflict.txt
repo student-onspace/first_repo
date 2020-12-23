@@ -1,6 +1,6 @@
 iif16482b (HEAD -> master) mst4
 ef47505 mst1
-3349896 m4
+conflict is added here
 ce15d3a (origin/master) sample
 e5483d3 commit cherry
 5063d45 Merge pull request #1 from student-onspace/login
