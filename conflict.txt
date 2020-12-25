@@ -1,7 +1,7 @@
 iif16482b (HEAD -> master) mst4
 ef47505 mst1
-this is correct code
-ce15d3a (origin/master) sample
+iam second developer
+ce15d3a (origin/master) sample123
 e5483d3 commit cherry
 5063d45 Merge pull request #1 from student-onspace/login
 389c229 login c2
